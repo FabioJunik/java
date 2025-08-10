@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Station
+comment0.text=\n\n\ @author\ POO\n\ @version\ April\ '23\n
+comment1.params=frequency\ name
+comment1.target=Station(double,\ java.lang.String)
+numComments=2
